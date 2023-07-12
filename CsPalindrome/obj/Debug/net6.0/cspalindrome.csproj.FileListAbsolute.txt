@@ -1,0 +1,15 @@
+C:\Users\Spenc\OneDrive\Desktop\Personal\CsPalindrome\bin\Debug\net6.0\cspalindrome.exe
+C:\Users\Spenc\OneDrive\Desktop\Personal\CsPalindrome\bin\Debug\net6.0\cspalindrome.deps.json
+C:\Users\Spenc\OneDrive\Desktop\Personal\CsPalindrome\bin\Debug\net6.0\cspalindrome.runtimeconfig.json
+C:\Users\Spenc\OneDrive\Desktop\Personal\CsPalindrome\bin\Debug\net6.0\cspalindrome.dll
+C:\Users\Spenc\OneDrive\Desktop\Personal\CsPalindrome\bin\Debug\net6.0\cspalindrome.pdb
+C:\Users\Spenc\OneDrive\Desktop\Personal\CsPalindrome\obj\Debug\net6.0\cspalindrome.csproj.AssemblyReference.cache
+C:\Users\Spenc\OneDrive\Desktop\Personal\CsPalindrome\obj\Debug\net6.0\cspalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spenc\OneDrive\Desktop\Personal\CsPalindrome\obj\Debug\net6.0\cspalindrome.AssemblyInfoInputs.cache
+C:\Users\Spenc\OneDrive\Desktop\Personal\CsPalindrome\obj\Debug\net6.0\cspalindrome.AssemblyInfo.cs
+C:\Users\Spenc\OneDrive\Desktop\Personal\CsPalindrome\obj\Debug\net6.0\cspalindrome.csproj.CoreCompileInputs.cache
+C:\Users\Spenc\OneDrive\Desktop\Personal\CsPalindrome\obj\Debug\net6.0\cspalindrome.dll
+C:\Users\Spenc\OneDrive\Desktop\Personal\CsPalindrome\obj\Debug\net6.0\refint\cspalindrome.dll
+C:\Users\Spenc\OneDrive\Desktop\Personal\CsPalindrome\obj\Debug\net6.0\cspalindrome.pdb
+C:\Users\Spenc\OneDrive\Desktop\Personal\CsPalindrome\obj\Debug\net6.0\cspalindrome.genruntimeconfig.cache
+C:\Users\Spenc\OneDrive\Desktop\Personal\CsPalindrome\obj\Debug\net6.0\ref\cspalindrome.dll
